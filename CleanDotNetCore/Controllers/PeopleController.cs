@@ -9,8 +9,9 @@ namespace CleanDotNetCore.Controllers
     {
         // POST api/people
         [HttpPost]
-        public void Post([FromBody] Person person)
+        public IActionResult Post([FromBody] Person person)
         {
+            return Ok(person);
         }
     }
 }
