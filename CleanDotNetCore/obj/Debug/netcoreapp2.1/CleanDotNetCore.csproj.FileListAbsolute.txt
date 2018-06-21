@@ -1,0 +1,14 @@
+C:\Projects\CleanDotNetCore\CleanDotNetCore\bin\Debug\netcoreapp2.1\CleanDotNetCore.deps.json
+C:\Projects\CleanDotNetCore\CleanDotNetCore\bin\Debug\netcoreapp2.1\CleanDotNetCore.runtimeconfig.json
+C:\Projects\CleanDotNetCore\CleanDotNetCore\bin\Debug\netcoreapp2.1\CleanDotNetCore.runtimeconfig.dev.json
+C:\Projects\CleanDotNetCore\CleanDotNetCore\bin\Debug\netcoreapp2.1\CleanDotNetCore.dll
+C:\Projects\CleanDotNetCore\CleanDotNetCore\bin\Debug\netcoreapp2.1\CleanDotNetCore.pdb
+C:\Projects\CleanDotNetCore\CleanDotNetCore\obj\Debug\netcoreapp2.1\CleanDotNetCore.csprojAssemblyReference.cache
+C:\Projects\CleanDotNetCore\CleanDotNetCore\obj\Debug\netcoreapp2.1\CleanDotNetCore.csproj.CoreCompileInputs.cache
+C:\Projects\CleanDotNetCore\CleanDotNetCore\obj\Debug\netcoreapp2.1\CleanDotNetCore.RazorAssemblyInfo.cache
+C:\Projects\CleanDotNetCore\CleanDotNetCore\obj\Debug\netcoreapp2.1\CleanDotNetCore.RazorAssemblyInfo.cs
+C:\Projects\CleanDotNetCore\CleanDotNetCore\obj\Debug\netcoreapp2.1\CleanDotNetCore.AssemblyInfoInputs.cache
+C:\Projects\CleanDotNetCore\CleanDotNetCore\obj\Debug\netcoreapp2.1\CleanDotNetCore.AssemblyInfo.cs
+C:\Projects\CleanDotNetCore\CleanDotNetCore\obj\Debug\netcoreapp2.1\CleanDotNetCore.RazorTargetAssemblyInfo.cache
+C:\Projects\CleanDotNetCore\CleanDotNetCore\obj\Debug\netcoreapp2.1\CleanDotNetCore.dll
+C:\Projects\CleanDotNetCore\CleanDotNetCore\obj\Debug\netcoreapp2.1\CleanDotNetCore.pdb
